@@ -37,6 +37,9 @@
 
 4. Der Verein verfolgt **keine kommerziellen Interessen**. Sämtliche Einnahmen dienen ausschließlich der Finanzierung, Wartung und Weiterentwicklung der unter §2 (1) genannten Vereinsinfrastruktur.
 
+5. Der Verein betont ausdrücklich, dass alle von der Community entwickelten Inhalte – wie Mods, Cheats, Tools oder andere Ergänzungen zum Spiel – ausschließlich dem kulturellen Erhalt, der spielerischen Vielfalt und dem gemeinschaftlichen Austausch dienen. Der Verein verfolgt in keiner Weise das Ziel, dem Spiel „Champions of Regnum“ oder dessen Rechteinhabern wirtschaftlich oder inhaltlich zu schaden. Vielmehr sind solche Erweiterungen ausdrücklich erwünscht, solange sie der Community und dem Spielerlebnis dienen, nicht kommerziell genutzt werden und keine Rechte Dritter verletzen.
+
+
 ---
 
 ### §3 Mitgliedschaft
