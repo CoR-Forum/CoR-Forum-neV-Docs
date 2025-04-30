@@ -1,5 +1,5 @@
 # Satzung  
-## Verein zur Erhaltung des Regnum Online Kulturguts (CoR Forum) n.e.V. (in Gründung)
+## Verein zur Erhaltung des Regnum Online Kulturguts (CoR Forum) n.e.V.
 
 ---
 
