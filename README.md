@@ -25,7 +25,7 @@
 1. Der Verein verfolgt das Ziel, die Community und die kulturellen Inhalte des Online-Spiels **„Champions of Regnum“** (vormals **Regnum Online** / **Realms Online**) zu fördern und langfristig zu bewahren.  
    Dies geschieht insbesondere durch den Betrieb und die Pflege folgender Plattformen:
    - der offiziellen Website und dem Forum unter **cor-forum.de**
-   - dem Community-Portal **CoRT**
+   - dem Community-Portal **CoRT** unter **tools4regnum.de** oder **cort.cor-forum.de**.
    - sowie weiterer Online-Angebote und Inhalte, die der Community dienen.
 
 2. Der Verein fördert den Austausch und die Zusammenarbeit zwischen den Mitgliedern durch:
