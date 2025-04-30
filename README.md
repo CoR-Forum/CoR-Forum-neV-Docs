@@ -26,7 +26,7 @@
    Dies geschieht insbesondere durch den Betrieb und die Pflege folgender Plattformen:
    - der offiziellen Website und dem Forum unter **cor-forum.de**
    - dem Community-Portal **CoRT** unter **tools4regnum.de** oder **cort.cor-forum.de**.
-   - sowie weiterer Online-Angebote und Inhalte, die der Community dienen.
+   - sowie weiterer Online-Angebote und Inhalte, die der Community dienen, wie bspw. **maps.cor-forum.de**.
 
 2. Der Verein fördert den Austausch und die Zusammenarbeit zwischen den Mitgliedern durch:
    - Organisation von Community-Events und Projekten
