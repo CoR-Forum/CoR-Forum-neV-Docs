@@ -4,9 +4,9 @@
 ### §1 Name, Sitz und Geschäftsjahr
 
 1. Der Verein führt den Namen:  
-   - „Verein zur Erhaltung des Regnum Online / Champions of Regnum Kulturguts"  
-   - „Association for the Preservation of Regnum Online / Champions of Regnum Cultural Assets"  
-   - „Asociación para la preservación de los bienes culturales de Regnum Online / Champions of Regnum"  
+   - „Verein zur Erhaltung des Regnum Online / Champions of Regnum Kulturguts" (Deutsch)
+   - „Association for the Preservation of Regnum Online / Champions of Regnum Cultural Assets"  (Englisch) 
+   - „Asociación para la preservación de los bienes culturales de Regnum Online / Champions of Regnum" (Spanisch)
    (Kurz: „CoR Forum n.e.V.", nachfolgend „der Verein“).
 2. Sitz des Vereins ist:  
    „CoR Forum n.e.V., c/o Joshua Treudler, Hinter der Schönen Aussicht 10, 60311 Frankfurt am Main".
@@ -15,14 +15,14 @@
 
 ### §2 Zweck des Vereins
 
-1. Ziel ist die Förderung der Community rund um das Online-Spiel „Champions of Regnum“ (ehemals Regnum Online), insbesondere durch den Betrieb der Website, des Forums (cor-forum.de), des Portals „CoRT“ und weiterer Angebote.
-2. Der Verein unterstützt Austausch unter Mitgliedern, organisiert Events und pflegt die Plattform weiter.
+1. Ziel ist die Förderung der Community rund um das Online-Spiel „Champions of Regnum“ (ehemals Regnum Online und Realms Online), nachfolgend Regnum Online oder Champions of Regnum, insbesondere durch den Betrieb der Website und des Forums unter cor-forum.de, des Portals „CoRT“ und weiterer Angebote.
+2. Der Verein unterstützt den Austausch unter Mitgliedern, organisiert Events und pflegt die Plattform weiter.
 3. Er setzt sich speziell für den Erhalt des digitalen Kulturguts von Champions of Regnum ein.
-4. Der Verein verfolgt keine Gewinnerzielung. Einnahmen dienen ausschließlich dem Betrieb der Infrastruktur.
+4. Der Verein verfolgt keine Gewinnerzielung. Einnahmen dienen ausschließlich dem Betrieb der Infrastruktur der in §2 (1) genannten Webseiten.
 
 ### §3 Mitgliedschaft
 
-1. Mitglied kann jede natürliche Person werden, die das Spiel spielt oder die Vereinsziele unterstützt.
+1. Mitglied kann jede natürliche Person werden, die das Spiel Regnum Online spielt oder die Vereinsziele unterstützt.
 2. Mitgliedsanträge sind online beim Kuratorium einzureichen. Die Aufnahme erfolgt per einfacher Mehrheit des Kuratoriums.
 3. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 4. Austritt ist schriftlich mit 30 Tagen Frist zum Jahresende anzuzeigen.
