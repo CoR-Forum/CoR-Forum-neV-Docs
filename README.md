@@ -1,193 +1,97 @@
 # Satzung  
 ## Verein zur Erhaltung des Regnum Online Kulturguts n.e.V. (CoR Forum)
 
-1.  Name, Sitz und Geschäftsjahr
+### §1 Name, Sitz und Geschäftsjahr
 
-    1.  Der Verein führt den Namen „Verein zur Erhaltung des Regnum
-        Online Kulturguts", „Association for the preservation of Regnum
-        Online cultural assets" oder „Asociación para la preservación de
-        los bienes culturales de Regnum Online" (kurz: „CoR Forum
-        n.e.V.", nachfolgend „der Verein").
-    2.  Der Sitz des Vereins ist „CoR Forum n.e.V., c/o Joshua Treudler,
-        Hinter der Schönen Aussicht 10, 60311 Frankfurt am Main".
-    3.  Das Geschäftsjahr ist das Kalenderjahr.
-    4.  ­Der Verein ist ein „nicht eingetragener Verein" gemäß § 54 BGB.
+1. Der Verein führt den Namen:  
+   - „Verein zur Erhaltung des Regnum Online / Champions of Regnum Kulturguts"  
+   - „Association for the Preservation of Regnum Online / Champions of Regnum Cultural Assets"  
+   - „Asociación para la preservación de los bienes culturales de Regnum Online / Champions of Regnum"  
+   (Kurz: „CoR Forum n.e.V.", nachfolgend „der Verein“).
+2. Sitz des Vereins ist:  
+   „CoR Forum n.e.V., c/o Joshua Treudler, Hinter der Schönen Aussicht 10, 60311 Frankfurt am Main".
+3. Geschäftsjahr ist das Kalenderjahr.
+4. Der Verein ist ein nicht eingetragener Verein gemäß §54 BGB.
 
-2.  Vereinszweck
+### §2 Zweck des Vereins
 
-    1.  Der Verein verfolgt den Zweck, die Online-Community des
-        Online-Spiels „Champions of Regnum" (Regnum Online), das
-        Community-Forum „cor-forum.de", das Portal „CoRT" und weitere
-        Angebote zu fördern und den Betrieb der Website zu unterstützen.
-    2.  Der Verein fördert den Austausch unter den Mitgliedern,
-        organisiert Veranstaltungen und Events und unterstützt die
-        Pflege und Weiterentwicklung der Plattform.
-    3.  Der Verein spezialisiert sich darauf, das Kulturgut des
-        Online-Spiels Regnum Online zu sichern und zu schützen.
-    4.  Der Verein ist nicht auf Gewinnerzielung ausgerichtet.
+1. Ziel ist die Förderung der Community rund um das Online-Spiel „Champions of Regnum“ (ehemals Regnum Online), insbesondere durch den Betrieb der Website, des Forums (cor-forum.de), des Portals „CoRT“ und weiterer Angebote.
+2. Der Verein unterstützt Austausch unter Mitgliedern, organisiert Events und pflegt die Plattform weiter.
+3. Er setzt sich speziell für den Erhalt des digitalen Kulturguts von Champions of Regnum ein.
+4. Der Verein verfolgt keine Gewinnerzielung. Einnahmen dienen ausschließlich dem Betrieb der Infrastruktur.
 
-3.  Mitgliedschaft
+### §3 Mitgliedschaft
 
-    1.  Mitglied des Vereins kann jede natürliche Person werden, die das
-        Online-Spiel Regnum Online spielt und/oder die Ziele des Vereins
-        unterstützt.
-    2.  Der Antrag auf Mitgliedschaft ist per Online-Formular beim
-        Kuratorium einzureichen. Über die Aufnahme entscheidet das
-        Kuratorium mit einfacher Mehrheit in einer Online-Abstimmung.
-        Damit sollen hauptsächliche doppelte Mitgliedschaften vermieden
-        werden.
-    3.  Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod des
-        Mitglieds.
-    4.  Der Austritt ist dem Kuratorium schriftlich mit einer Frist von
-        30 Tagen zum Jahresende mitzuteilen und wird zum Ende des
-        laufenden Kalenderjahres wirksam.
-    5.  Ein Mitglied kann ausgeschlossen werden, wenn es in grober Weise
-        gegen die Vereinsinteressen verstößt. Über den Ausschluss
-        entscheiden der Vorstand und das Kuratorium gemeinsam mit
-        einfacher Mehrheit.
+1. Mitglied kann jede natürliche Person werden, die das Spiel spielt oder die Vereinsziele unterstützt.
+2. Mitgliedsanträge sind online beim Kuratorium einzureichen. Die Aufnahme erfolgt per einfacher Mehrheit des Kuratoriums.
+3. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
+4. Austritt ist schriftlich mit 30 Tagen Frist zum Jahresende anzuzeigen.
+5. Ausschluss ist bei grobem Verstoß gegen Vereinsinteressen möglich. Entscheidung trifft Vorstand und Kuratorium gemeinsam mit einfacher Mehrheit.
 
-4.  Organe des Vereins
+### §4 Organe des Vereins
 
-    1.  Die Organe des Vereins sind:
+Die Organe sind:
+1. die Mitgliederversammlung,  
+2. der Vorstand,  
+3. das Kuratorium.
 
-        1.  die Mitgliederversammlung,
-        2.  der Vorstand,
-        3.  das Kuratorium.
+### §5 Mitgliederversammlung
 
-5.  Mitgliederversammlung
+1. Höchstes Entscheidungsorgan des Vereins.
+2. Ordentliche Versammlungen finden mindestens alle 6 Monate statt, Einladung mindestens 4 Wochen vorher mit Tagesordnung.
+3. Außerordentliche Versammlungen müssen einberufen werden bei:
+   - Vereinsinteresse,
+   - Antrag von mind. einem Drittel der Mitglieder.
+   - In dringenden Fällen kann die Einladungsfrist auf 1 Woche verkürzt werden.
+4. Entscheidungen erfolgen mit einfacher Mehrheit. Satzungsänderungen benötigen Zweidrittelmehrheit der Anwesenden.
+5. Beschlüsse sind zu protokollieren und vom Versammlungsleiter sowie Protokollführer zu unterschreiben.
 
-    1.  Die Mitgliederversammlung ist das oberste Beschlussorgan des
-        Vereins.
+### §6 Vorstand
 
-    2.  Die ordentliche Mitgliederversammlung findet mindestens alle 12
-        Monate statt. Sie wird vom Vorstand mit einer Frist von
-        mindestens vier Wochen schriftlich unter Angabe der Tagesordnung
-        einberufen.
+1. Besteht aus 3–7 Mitgliedern, gewählt für 2 Jahre. Wiederwahl ist möglich.
+2. Entscheidungen mit einfacher Mehrheit der anwesenden Vorstandsmitglieder. Bei Gleichstand: erneute Sitzung.
+3. Führt die laufenden Geschäfte und vertritt den Verein nach außen.
+4. Kann Aufgaben delegieren, bleibt aber verantwortlich.
+5. Vorstand ist ehrenamtlich tätig. Aufwandsentschädigung erfolgt nicht.
 
-    3.  Eine außerordentliche Mitgliederversammlung ist vom Vorstand
-        einzuberufen, wenn das Interesse des Vereins es erfordert oder
-        wenn mindestens ein Drittel der Mitglieder dies schriftlich beim
-        Vorstand beantragt.
+### §7 Kuratorium
 
-        1.  Die Frist für die Einladung zu einer außerordentlichen
-            Mitgliederversammlung kann in dringenden Fällen oder in
-            Fällen, die nicht unbedingt die Anwesenheit der Mitglieder
-            erfordern, auf eine Woche verkürzt werden.
+1. Besteht aus bis zu 10 Mitgliedern, gewählt auf unbestimmte Zeit durch Mitgliederversammlung.
+2. Mitglieder sind anerkannte Persönlichkeiten aus der CoR-Community.
+3. Berät und unterstützt den Vorstand, überwacht Finanzen und Organisation.
+4. Kann Empfehlungen abgeben und bei wichtigen Entscheidungen beraten.
+5. Kann ein kollektives Stimmrecht erhalten, wenn der Vorstand dies mehrheitlich bestimmt.
+   - Kuratorium entscheidet dann intern per Mehrheitsabstimmung.
+6. Bei Inaktivität eines Kuratoriumsmitglieds kann dessen Stimme mit Zweidrittelmehrheit entbehrlich erklärt werden. Fristen:
+   - 7 Tage bei Mitgliedsanträgen,
+   - 7 Tage bei Vorstandsentscheidungen (abweichend bei besonderem Grund).
+7. Abberufung durch Mitgliederversammlung mit einfacher Mehrheit möglich, wenn ein wichtiger Grund vorliegt.
 
-    4.  Die Mitgliederversammlung entscheidet mit einfacher Mehrheit der
-        abgegebenen Stimmen. Änderungen der Satzung bedürfen einer
-        Zweidrittelmehrheit der anwesenden Mitglieder.
+### §8 Kassenprüfung
 
-    5.  Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll
-        zu führen, das vom Versammlungsleiter und dem Protokollführer zu
-        unterzeichnen ist.
+1. Der Kassenwart verwaltet Finanzen und führt Buch.
+2. Jährliche Prüfung durch zwei unabhängige Kassenprüfer (nicht Vorstandsmitglieder).
 
-6.  Vorstand
+### §9 Haftung
 
-    1.  Der Vorstand besteht aus mindestens drei und höchstens sieben
-        Mitgliedern, die von der Mitgliederversammlung für die Dauer von
-        zwei Jahren gewählt werden. Die Wiederwahl ist zulässig.
-    2.  Der Vorstand bildet gemeinsam das Entscheidungsorgan des
-        Vereins. Beschlüsse werden mit einfacher Mehrheit der anwesenden
-        Vorstandsmitglieder gefasst. Bei Stimmengleichheit entscheidet
-        die einfache Mehrheit der Vorstandsmitglieder in einer weiteren
-        Sitzung, die so bald wie möglich einberufen wird.
-    3.  Der Vorstand führt die laufenden Geschäfte des Vereins und
-        vertritt den Verein nach außen.
-    4.  Der Vorstand kann intern spezielle Aufgaben an einzelne
-        Mitglieder delegieren. Jede delegierte Aufgabe bleibt jedoch im
-        Verantwortungsbereich des gesamten Vorstands.
-    5.  Der Vorstand ist ehrenamtlich tätig. Aufwendungen, die im Rahmen
-        der Vereinstätigkeit entstehen, können nicht erstattet werden.
+1. Mitglieder haften nicht mit Vereinsvermögen, sondern nur persönlich.
+2. Der Verein ist als nicht eingetragener Verein nicht haftbar und nicht geschäftsfähig.
 
-7.  Kuratorium
+### §10 Auflösung des Vereins
 
-    1.  Das Kuratorium besteht aus bis zu zehn Mitgliedern. Sie werden
-        von der Mitgliederversammlung mit einfacher Mehrheit auf
-        unbestimmte Zeit gewählt.
+1. Auflösung nur in dafür einberufener Mitgliederversammlung möglich. Dreiviertelmehrheit der Anwesenden erforderlich.
+2. Vereinsvermögen fällt im Auflösungsfall an eine gemeinnützige Organisation, die die Mitgliederversammlung bestimmt.
+3. Daten sollen bei Auflösung erhalten bleiben (ausgenommen personenbezogene Daten). Archivierung soll öffentlich zugänglich erfolgen, z. B. über LimaCity oder GitHub.
 
-    2.  Die Mitglieder des Kuratoriums sind herausragende
-        Persönlichkeiten aus Regnum Online, die durch ihre Expertise,
-        ihren Einfluss oder ihre Popularität bekannt sind.
+### §11 Datenschutz
 
-    3.  Die Aufgaben des Kuratoriums umfassen die Beratung und
-        Unterstützung des Vorstands bei der Erfüllung der Vereinsziele
-        sowie die Überwachung der finanziellen und organisatorischen
-        Angelegenheiten des Vereins.
+1. Personenbezogene Daten werden nur für Vereinszwecke verarbeitet.
+2. Mitglieder können Auskunft und Korrektur ihrer Daten verlangen. Dafür steht ein Online-Formular zur Verfügung.
 
-    4.  Das Kuratorium kann dem Vorstand Empfehlungen aussprechen und
-        bei wichtigen Entscheidungen beratend tätig werden.
+### §12 Inkrafttreten
 
-    5.  Der Vorstand kann mit einfacher Mehrheit bestimmen, dass das
-        Kuratorium als ganzes ein Stimmrecht bei Abstimmungen im
-        Vorstand hat. So hat im Kuratorium eine eigene Abstimmung mit
-        einfacher Mehrheit stattzufinden, welche dann als eine
-        gemeinsame Stimme in der Abstimmung des Vorstands gewertet wird.
+Diese Satzung tritt mit Gründung des Vereins in Kraft.
 
-    6.  Sollte ein Mitglied des Kuratoriums nicht an Abstimmungen
-        teilnehmen, so kann das Kuratorium mit Zweidrittelmehrheit
-        bestimmen, dass die Stimme des Kuratoriumsmitglieds nicht
-        erforderlich ist. Dafür ist eine entsprechende Fristsetzung
-        nötig. Diese beträgt im Regelfall:
+### §13 Sonstiges
 
-        1.  Bei Mitgliedsanträgen: 7 Tage.
-        2.  Bei Vorstandsentscheidungen: 7 Tage, außer ein besonderer
-            Grund ist gegeben.
-
-    7.  Mitglieder des Kuratoriums können aus wichtigem Grund von der
-        Mitgliederversammlung abberufen werden. Über die Abberufung
-        entscheidet die Mitgliederversammlung mit einfacher Mehrheit.
-
-8.  Kassenprüfung
-
-    1.  Der Kassenwart verwaltet die finanziellen Mittel des Vereins und
-        führt Buch über die Einnahmen und Ausgaben.
-    2.  Die Kassenprüfung erfolgt jährlich durch zwei von der
-        Mitgliederversammlung gewählte Kassenprüfer, die nicht dem
-        Vorstand angehören dürfen.
-
-9.  Haftung
-
-    1.  Die Mitglieder des Vereins haften nur mit ihrem persönlichen
-        Vermögen und nicht mit dem des Vereins. Der Verein selbst haftet
-        nicht für Verbindlichkeiten seiner Mitglieder.
-
-    2.  Der Verein ist als nicht eingetragener Verein gemäß §54 BGB
-        nicht selbstständig geschäftsfähig und dementsprechend nicht
-        haftbar.
-
-10. Auflösung des Vereins
-
-    1.  Die Auflösung des Vereins kann nur in einer eigens dafür
-        einberufenen Mitgliederversammlung beschlossen werden. Hierfür
-        ist eine Dreiviertelmehrheit der anwesenden Mitglieder
-        erforderlich.
-    2.  Im Falle der Auflösung des Vereins oder bei Wegfall des
-        Vereinszwecks fällt das Vereinsvermögen an eine von der
-        Mitgliederversammlung zu bestimmende gemeinnützige Organisation.
-    3.  Im Falle der Auflösung des Vereins ist die Löschung der Daten
-        des Vereins zu vermeiden. Die Daten mit Ausnahme der Logs und
-        persönlichen Daten der Benutzer (E-Mail-Adressen, Passwörter,
-        Vor- und Nachnamen und andere personenbezogenen Daten) sind
-        entsprechend zu archivieren und mit einem kostenfreien Dienst,
-        bspw. LimaCity oder GitHub öffentlich und frei zugänglich zu
-        machen.
-
-11. Datenschutz
-
-    1.  Der Verein erhebt, speichert und verarbeitet personenbezogene
-        Daten seiner Mitglieder ausschließlich für Vereinszwecke.
-    2.  Die Mitglieder haben das Recht, Auskunft über die zu ihrer
-        Person gespeicherten Daten zu erhalten und diese gegebenenfalls
-        berichtigen zu lassen. Dafür stellt der Verein ein eigenes
-        Formular zur Verfügung, welches in der Mitgliederverwaltung
-        aufgerufen werden kann.
-
-12. Inkrafttreten
-
-    1.  Diese Satzung tritt mit der Gründung des Vereins in Kraft.
-
-13. Sonstiges
-
-    1.  Der nicht eingetragene Verein wurde gegründet am XXXXXXX, dem
-        XX.XX.XXXX.
+Der Verein wurde gegründet am XXXXXXX, dem XX.XX.XXXX.
