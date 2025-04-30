@@ -1,14 +1,14 @@
 # Satzung  
-## Verein zur Erhaltung des Champions of Regnum (Regnum Online / Realms Online) Kulturguts (CoR Forum) n.e.V. (in Gründung)
+## Verein zur Erhaltung des Regnum Online Kulturguts (CoR Forum) n.e.V. (in Gründung)
 
 ---
 
 ### §1 Name, Sitz und Geschäftsjahr
 
 1. Der Verein trägt den Namen:  
-   - **Deutsch**: „Verein zur Erhaltung des Regnum Online / Champions of Regnum Kulturguts“  
-   - **Englisch**: „Association for the Preservation of Regnum Online / Champions of Regnum Cultural Assets“  
-   - **Spanisch**: „Asociación para la preservación de los bienes culturales de Regnum Online / Champions of Regnum“  
+   - **Deutsch**: „Verein zur Erhaltung des Regnum Online Kulturguts (CoR n.e.V.)“  
+   - **Englisch**: „Association for the Preservation of Regnum Online Cultural Assets (CoR n.e.V.)“  
+   - **Spanisch**: „Asociación para la preservación de los bienes culturales de Regnum Online (CoR n.e.V.)“  
    Abgekürzt wird der Verein als **„CoR Forum n.e.V.“**, im Folgenden **„der Verein“** genannt.
 
 2. Der Sitz des Vereins ist:  
