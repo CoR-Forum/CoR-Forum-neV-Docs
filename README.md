@@ -18,6 +18,8 @@
 
 4. Der Verein ist ein **nicht eingetragener Verein** im Sinne des §54 BGB (Bürgerliches Gesetzbuch).
 
+5. Für allgemeine Anfragen ist der Verein per E-Mail unter [kontakt@cor-forum.de](mailto:kontakt@cor-forum.de) erreichbar.
+
 ---
 
 ### §2 Zweck des Vereins
