@@ -1,5 +1,5 @@
 # Satzung  
-## Verein zur Erhaltung des Regnum Online Kulturguts n.e.V. (CoR Forum)
+## Verein zur Erhaltung des Champions of Regnum (Regnum Online / Realms Online) Kulturguts n.e.V. (CoR Forum)
 
 ---
 
