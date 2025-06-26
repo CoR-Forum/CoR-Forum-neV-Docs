@@ -40,7 +40,8 @@
  Wir freuen uns über jede Teilnahme und hoffen auf eine rege Mitwirkung bei der Gründung dieses gemeinnützigen Projekts.  
  Ganz besonders würden wir uns freuen, wenn diese Einladung auch in die **spanischsprachige Regnum-Community** weitergetragen wird – um so gemeinsam und international zum Erhalt dieses besonderen Kulturguts beizutragen.
  
- **Vorbereitungsteam**  
+ Herzliche Grüße
+ im Namen des Vorbereitungsteams
  CoR Forum n.e.V. (in Gründung)
 
 ---
