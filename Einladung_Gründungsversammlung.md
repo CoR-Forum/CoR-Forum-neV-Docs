@@ -29,9 +29,11 @@ hiermit laden wir euch form- und fristgerecht zur **Gründungsversammlung des Ve
 - Anträge zur Ergänzung der Tagesordnung sind bis spätestens **25. Mai 2025** schriftlich, am besten per E-Mail an joshua@treudler.net oder im Discord einzureichen.
 - Die Teilnahme an der Gründungsversammlung erfolgt online; die Einwahldaten werden den angemeldeten Teilnehmerinnen und Teilnehmern rechtzeitig spätestens 1 Stunde vor Beginn unter cor-forum.de zur Verfügung gestellt.
 
-Wir würden uns sehr freuen, euch zur Gründungsversammlung begrüßen zu dürfen und gemeinsam den Grundstein für den langfristigen Erhalt der Regnum-Community und ihres digitalen Kulturguts zu legen.
+Wir freuen uns über jede Teilnahme und hoffen auf eine rege Mitwirkung bei der Gründung dieses gemeinnützigen Projekts.
 
-Viele Grüße
+Ganz besonders würden wir uns freuen, wenn diese Einladung auch in die spanischsprachige Regnum-Community weitergetragen wird – um so gemeinsam und international zum Erhalt dieses besonderen Kulturguts beizutragen.
 
-**Vorbereitungsteam**  
+Herzliche Grüße
+im Namen des Vorbereitungsteams
+
 CoR Forum n.e.V. (in Gründung)
