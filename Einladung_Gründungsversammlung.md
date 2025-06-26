@@ -1,5 +1,6 @@
-# Einladung zur Gründungsversammlung  
+# Einladung zur Gründungsversammlung
 des Vereins zur Erhaltung des Regnum Online Kulturguts (CoR Forum n.e.V.)
+am Sonntag, 31. August 2025 um 21 Uhr
 
 Liebe Mitglieder und Unterstützer der Regnum-Community,
 
@@ -7,9 +8,9 @@ hiermit laden wir euch form- und fristgerecht zur **Gründungsversammlung des Ve
 
 ## Termin der Gründungsversammlung
 
-**Datum:** Sonntag, 1. Juni 2025  
+**Datum:** Sonntag, 31. August 2025  
 **Uhrzeit:** 21:00 Uhr  
-**Ort:** Online-Versammlung (Zugangsdaten werden gesondert bekanntgegeben)
+**Ort:** Online-Versammlung (Zugangsdaten können kurz vor der Versammlung unter cor-forum.de abgerufen werden)
 
 ## Tagesordnung
 
@@ -25,12 +26,12 @@ hiermit laden wir euch form- und fristgerecht zur **Gründungsversammlung des Ve
 ## Hinweise
 
 - Stimmberechtigt sind alle anwesenden Gründungsmitglieder.
-- Anträge zur Ergänzung der Tagesordnung sind bis spätestens **25. Mai 2025** schriftlich einzureichen.
-- Die Teilnahme an der Gründungsversammlung erfolgt online; die Einwahldaten werden den angemeldeten Teilnehmerinnen und Teilnehmern rechtzeitig zur Verfügung gestellt.
+- Anträge zur Ergänzung der Tagesordnung sind bis spätestens **25. Mai 2025** schriftlich, am besten per E-Mail an joshua@treudler.net oder im Discord einzureichen.
+- Die Teilnahme an der Gründungsversammlung erfolgt online; die Einwahldaten werden den angemeldeten Teilnehmerinnen und Teilnehmern rechtzeitig spätestens 1 Stunde vor Beginn unter cor-forum.de zur Verfügung gestellt.
 
 Wir würden uns sehr freuen, euch zur Gründungsversammlung begrüßen zu dürfen und gemeinsam den Grundstein für den langfristigen Erhalt der Regnum-Community und ihres digitalen Kulturguts zu legen.
 
 Viele Grüße
 
-**Das Vorbereitungsteam**  
+**Vorbereitungsteam**  
 CoR Forum n.e.V. (in Gründung)
