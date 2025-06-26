@@ -28,6 +28,9 @@ hiermit laden wir euch form- und fristgerecht zur **Gründungsversammlung des Ve
 7. Festlegung des weiteren organisatorischen Vorgehens  
 8. Verschiedenes
 
+> 📄 Die aktuelle Fassung der Satzung kann jederzeit unter folgendem Link eingesehen und kommentiert werden:  
+> [github.com/CoR-Forum/CoR-Forum-neV-Docs](https://github.com/CoR-Forum/CoR-Forum-neV-Docs/tree/main)
+
 ### ℹ️ Hinweise
 
 - Stimmberechtigt sind alle anwesenden Gründungsmitglieder.  
@@ -66,6 +69,9 @@ Por la presente, os invitamos formal y puntualmente a la **asamblea fundacional 
 7. Organización y próximos pasos  
 8. Asuntos varios
 
+> 📄 La versión actual de los estatutos puede consultarse y comentarse en cualquier momento en el siguiente enlace:  
+> [github.com/CoR-Forum/CoR-Forum-neV-Docs](https://github.com/CoR-Forum/CoR-Forum-neV-Docs/tree/main)
+
 ### ℹ️ Notas importantes
 
 - Tendrán derecho a voto todos los miembros fundadores presentes.  
@@ -103,6 +109,9 @@ We hereby invite you, formally and in due time, to the **founding assembly of th
 6. Election of the advisory council  
 7. Organizational next steps  
 8. Miscellaneous
+
+> 📄 The current version of the association's statutes can be reviewed and commented on at any time here:  
+> [github.com/CoR-Forum/CoR-Forum-neV-Docs](https://github.com/CoR-Forum/CoR-Forum-neV-Docs/tree/main)
 
 ### ℹ️ Important Notes
 
