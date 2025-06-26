@@ -1,48 +1,48 @@
- # Einladung zur Gründungsversammlung  
- **Verein zur Erhaltung des Regnum Online Kulturguts (CoR Forum n.e.V.)**  
- 🗓️ Sonntag, 31. August 2025 – 21:00 Uhr (online)
- 
- ---
- 
- ## 🇩🇪 Deutsch
- 
- Liebe Mitglieder und Unterstützer der Regnum-Community,
- 
- hiermit laden wir euch form- und fristgerecht zur **Gründungsversammlung des Vereins zur Erhaltung des Regnum Online Kulturguts (CoR Forum n.e.V.)** ein.
- 
- ### 📅 Termin der Gründungsversammlung
- 
- - **Datum:** Sonntag, 31. August 2025  
- - **Uhrzeit:** 21:00 Uhr  
- - **Ort:** Online-Versammlung  
-   *(Zugangsdaten werden kurz vor der Versammlung unter [cor-forum.de](https://cor-forum.de) veröffentlicht)*
- 
- ### 📌 Tagesordnung
- 
- 1. Eröffnung und Begrüßung  
- 2. Vorstellung des Vereinszwecks  
- 3. Beratung und Beschlussfassung über die Vereinssatzung  
- 4. Beschluss über die Vereinsgründung  
- 5. Wahl des Vorstands  
- 6. Wahl des Kuratoriums  
- 7. Festlegung des weiteren organisatorischen Vorgehens  
- 8. Verschiedenes
- 
- > 📄 Die aktuelle Fassung der Satzung kann jederzeit unter folgendem Link eingesehen und kommentiert werden:  
- > [github.com/CoR-Forum/CoR-Forum-neV-Docs](https://github.com/CoR-Forum/CoR-Forum-neV-Docs/tree/main)
- 
- ### ℹ️ Hinweise
- 
- - Stimmberechtigt sind alle anwesenden Gründungsmitglieder.  
- - Anträge zur Ergänzung der Tagesordnung sind bis spätestens **25. Mai 2025** schriftlich, am besten per E-Mail an [joshua@treudler.net](mailto:joshua@treudler.net) oder im Discord einzureichen.  
- - Die Einwahldaten werden spätestens 1 Stunde vor Beginn unter [cor-forum.de](https://cor-forum.de) bereitgestellt.
- 
- Wir freuen uns über jede Teilnahme und hoffen auf eine rege Mitwirkung bei der Gründung dieses gemeinnützigen Projekts.  
- Ganz besonders würden wir uns freuen, wenn diese Einladung auch in die **spanischsprachige Regnum-Community** weitergetragen wird – um so gemeinsam und international zum Erhalt dieses besonderen Kulturguts beizutragen.
- 
- Herzliche Grüße
- im Namen des Vorbereitungsteams
- CoR Forum n.e.V. (in Gründung)
+# Einladung zur Gründungsversammlung  
+**Verein zur Erhaltung des Regnum Online Kulturguts (CoR Forum n.e.V.)**  
+🗓️ Sonntag, 31. August 2025 – 21:00 Uhr (online)
+
+---
+
+## 🇩🇪 Deutsch
+
+Liebe Mitglieder und Unterstützer der Regnum-Community,
+
+hiermit laden wir euch form- und fristgerecht zur **Gründungsversammlung des Vereins zur Erhaltung des Regnum Online Kulturguts (CoR Forum n.e.V.)** ein.
+
+### 📅 Termin der Gründungsversammlung
+
+- **Datum:** Sonntag, 31. August 2025  
+- **Uhrzeit:** 21:00 Uhr  
+- **Ort:** Online-Versammlung  
+  *(Zugangsdaten werden kurz vor der Versammlung unter [cor-forum.de](https://cor-forum.de) veröffentlicht)*
+
+### 📌 Tagesordnung
+
+1. Eröffnung und Begrüßung  
+2. Vorstellung des Vereinszwecks  
+3. Beratung und Beschlussfassung über die Vereinssatzung  
+4. Beschluss über die Vereinsgründung  
+5. Wahl des Vorstands  
+6. Wahl des Kuratoriums  
+7. Festlegung des weiteren organisatorischen Vorgehens  
+8. Verschiedenes
+
+> 📄 Die aktuelle Fassung der Satzung kann jederzeit unter folgendem Link eingesehen und kommentiert werden:  
+> [github.com/CoR-Forum/CoR-Forum-neV-Docs](https://github.com/CoR-Forum/CoR-Forum-neV-Docs/tree/main)
+
+### ℹ️ Hinweise
+
+- Stimmberechtigt sind alle anwesenden Gründungsmitglieder.  
+- Anträge zur Ergänzung der Tagesordnung sind bis spätestens **24. August 2025** schriftlich, am besten per E-Mail an [joshua@treudler.net](mailto:joshua@treudler.net) oder im Discord einzureichen.  
+- Die Einwahldaten werden spätestens 1 Stunde vor Beginn unter [cor-forum.de](https://cor-forum.de) bereitgestellt.
+
+Wir freuen uns über jede Teilnahme und hoffen auf eine rege Mitwirkung bei der Gründung dieses gemeinnützigen Projekts.  
+Ganz besonders würden wir uns freuen, wenn diese Einladung auch in die **spanischsprachige Regnum-Community** weitergetragen wird – um so gemeinsam und international zum Erhalt dieses besonderen Kulturguts beizutragen.
+
+Herzliche Grüße  
+im Namen des Vorbereitungsteams  
+CoR Forum n.e.V. (in Gründung)
 
 ---
 
@@ -76,7 +76,7 @@ Por la presente, os invitamos formal y puntualmente a la **asamblea fundacional 
 ### ℹ️ Notas importantes
 
 - Tendrán derecho a voto todos los miembros fundadores presentes.  
-- Las solicitudes para añadir puntos al orden del día deben enviarse **antes del 25 de mayo de 2025**, preferiblemente por correo electrónico a [joshua@treudler.net](mailto:joshua@treudler.net) o a través de Discord.  
+- Las solicitudes para añadir puntos al orden del día deben enviarse **antes del 24 de agosto de 2025**, preferiblemente por correo electrónico a [joshua@treudler.net](mailto:joshua@treudler.net) o a través de Discord.  
 - La participación será exclusivamente en línea. El enlace de acceso se publicará en [cor-forum.de](https://cor-forum.de) al menos una hora antes del inicio.
 
 Nos alegrará contar con vuestra participación y colaboración activa en este proyecto sin ánimo de lucro.  
@@ -117,7 +117,7 @@ We hereby invite you, formally and in due time, to the **founding assembly of th
 ### ℹ️ Important Notes
 
 - All founding members present are eligible to vote.  
-- Requests to add items to the agenda must be submitted **no later than May 25, 2025**, preferably by email to [joshua@treudler.net](mailto:joshua@treudler.net) or via Discord.  
+- Requests to add items to the agenda must be submitted **no later than August 24, 2025**, preferably by email to [joshua@treudler.net](mailto:joshua@treudler.net) or via Discord.  
 - Participation will take place online; the access link will be made available on [cor-forum.de](https://cor-forum.de) at least one hour before the meeting begins.
 
 We welcome every participant and look forward to your active involvement in this non-profit initiative.  
